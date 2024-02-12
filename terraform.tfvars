@@ -1,5 +1,4 @@
 vpc_cidr       = "10.0.0.0/16"
 az_count       = 2
-# optional 
-aws_access_key = "Enter Access Key Here"
-aws_secret_key = "Enter Secret Access Key Here"
+aws_access_key = "AKIAWYLCF54HCKBL6UTO"
+aws_secret_key = "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"
